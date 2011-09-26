@@ -39,20 +39,20 @@
 		DD2B857A143012360035FCB3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DD2B857C143012360035FCB3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DD2B857E143012360035FCB3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DD2B8582143012360035FCB3 /* HellowWorld-Info.plist */ = {isa = PBXFileReference; path = "HellowWorld-Info.plist"; sourceTree = "<group>"; };
+		DD2B8582143012360035FCB3 /* HellowWorld-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HellowWorld-Info.plist"; sourceTree = "<group>"; };
 		DD2B8584143012360035FCB3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DD2B8586143012360035FCB3 /* HellowWorld-Prefix.pch */ = {isa = PBXFileReference; path = "HellowWorld-Prefix.pch"; sourceTree = "<group>"; };
+		DD2B8586143012360035FCB3 /* HellowWorld-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HellowWorld-Prefix.pch"; sourceTree = "<group>"; };
 		DD2B8587143012360035FCB3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DD2B8589143012360035FCB3 /* HellowWorldAppDelegate.h */ = {isa = PBXFileReference; path = HellowWorldAppDelegate.h; sourceTree = "<group>"; };
+		DD2B8589143012360035FCB3 /* HellowWorldAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HellowWorldAppDelegate.h; sourceTree = "<group>"; };
 		DD2B858A143012360035FCB3 /* HellowWorldAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HellowWorldAppDelegate.m; sourceTree = "<group>"; };
 		DD2B858D143012360035FCB3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		DD2B858F143012360035FCB3 /* HellowWorldViewController.h */ = {isa = PBXFileReference; path = HellowWorldViewController.h; sourceTree = "<group>"; };
+		DD2B858F143012360035FCB3 /* HellowWorldViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HellowWorldViewController.h; sourceTree = "<group>"; };
 		DD2B8590143012360035FCB3 /* HellowWorldViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HellowWorldViewController.m; sourceTree = "<group>"; };
 		DD2B8593143012360035FCB3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/HellowWorldViewController.xib; sourceTree = "<group>"; };
 		DD2B859A143012360035FCB3 /* HellowWorldTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HellowWorldTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD2B85A2143012360035FCB3 /* HellowWorldTests-Info.plist */ = {isa = PBXFileReference; path = "HellowWorldTests-Info.plist"; sourceTree = "<group>"; };
+		DD2B85A2143012360035FCB3 /* HellowWorldTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HellowWorldTests-Info.plist"; sourceTree = "<group>"; };
 		DD2B85A4143012360035FCB3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DD2B85A6143012360035FCB3 /* HellowWorldTests-Prefix.pch */ = {isa = PBXFileReference; path = "HellowWorldTests-Prefix.pch"; sourceTree = "<group>"; };
+		DD2B85A6143012360035FCB3 /* HellowWorldTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HellowWorldTests-Prefix.pch"; sourceTree = "<group>"; };
 		DD2B85A7143012360035FCB3 /* HellowWorldTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HellowWorldTests.h; sourceTree = "<group>"; };
 		DD2B85A9143012360035FCB3 /* HellowWorldTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HellowWorldTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
